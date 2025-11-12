@@ -8,6 +8,14 @@ Full-stack engineer & SaaS founder building [Spröch!](https://sproe.ch) - AI-po
 - AI/ML integration and multi-model orchestration (Ollama, OpenWebUI, LangChain, Langfuse, Qdrant)
 - Education sector digital transformation projects at HEIG-VD
 
+## 🧠 Interests
+
+- Multi-agent systems and AI orchestration  
+- LLM evaluation, observability, and prompt engineering  
+- Applied AI for education and language learning  
+- Scalable SaaS design and cloud architecture  
+- Human-AI collaboration and workflow automation
+
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
