@@ -4,7 +4,7 @@ Full-stack engineer & SaaS founder building [Spröch!](https://sproe.ch) - AI-po
 
 ## 🚀 Current Focus
 
-- Building [Spröch!](https://sproe.ch): Swiss German dialect translation SaaS
+- Building [Spröch!](https://sproe.ch): Swiss German dialects translation SaaS
 - AI/ML integration and multi-model orchestration (Ollama, OpenWebUI, LangChain, Langfuse, Qdrant)
 - Education sector digital transformation projects at HEIG-VD
 
