@@ -40,5 +40,5 @@ Biel/Bienne, Switzerland 🇨🇭
 ## 📫 Connect
 
 - 🌐 [carlosmello.work](https://carlosmello.work)
-- 💼 [LinkedIn](https://ch.linkedin.com/in/your-profile)
-- 📧 [Email](mailto:your.email@example.com)
+- 💼 [LinkedIn](https://ch.linkedin.com/in/carlosduplar)
+- 📧 [Email](mailto:me@carlosmello.work)
